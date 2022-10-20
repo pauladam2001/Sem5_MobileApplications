@@ -1,0 +1,19 @@
+	Basketball Team Management Application
+
+  Hello! We would like an application to manage the Basketball Team of CSM Medias. We should be able to see everything: players, coaches, other staff, money and any other costs. We want to
+see the Employees (players, coaches, physical trainers etc.) separately from the Expenses (food, accomodation, transport etc.). We also want to have the possibility to add, modify current
+employees or expenses and to delete them.
+
+  We will have 2 entities that will be persisted: Employee and Expense. The Employees table will have the following fields: name (of the employee), age (of the employee), occupation (coach,
+player etc.), salary (per month), experience (how many years he has been in the domain). The Expenses table will have the following fields: name (of the expense), money spent (how much money
+was spent), date (when was the expense made), short description (additional notes) and category (foos, accomodation etc.).
+
+  For the Employees, the users will have the 4 basic operations: Ability to create an employee with the above mentioned fields, possibility to delete an employee, to update the fields of
+an employee and, of course, the users will be able to see all the employees stored in the database.
+  For the Expenses, we will have the same operations with the same functionalities as mentioned above.
+
+  When it comes to persistence, the operation of adding, updating and deleting an Employee/Expense will be persisted on the server and the local database.
+
+  When the device is offline, the users should still be able to access every feature. Only difference is that when the device is back only the changes should be uploaded to the server.
+
+  I attached a Word document with the App mockup. I'm sorry, I have no idea how to use Figma.

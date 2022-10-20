@@ -1,0 +1,5 @@
+flutter create <name>
+cd <name>
+code .
+flutter devices
+flutter run -d <device_name>
