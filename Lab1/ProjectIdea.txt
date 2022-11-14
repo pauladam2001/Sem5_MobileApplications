@@ -6,7 +6,7 @@ employees or expenses and to delete them.
 
   We will have 2 entities that will be persisted: Employee and Expense. The Employees table will have the following fields: name (of the employee), age (of the employee), occupation (coach,
 player etc.), salary (per month), experience (how many years he has been in the domain). The Expenses table will have the following fields: name (of the expense), money spent (how much money
-was spent), date (when was the expense made), short description (additional notes) and category (foos, accomodation etc.).
+was spent), date (when was the expense made), short description (additional notes) and category (food, accomodation etc.).
 
   For the Employees, the users will have the 4 basic operations: Ability to create an employee with the above mentioned fields, possibility to delete an employee, to update the fields of
 an employee and, of course, the users will be able to see all the employees stored in the database.

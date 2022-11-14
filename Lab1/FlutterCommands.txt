@@ -1,5 +1,8 @@
-flutter create <name>
-cd <name>
-code .
-flutter devices
-flutter run -d <device_name>
+- flutter create <name>
+- cd <name>
+- code .
+- flutter devices
+- flutter run -d <device_name>
+
+- add dependency in pubspec.yaml 
+- flutter pub get
