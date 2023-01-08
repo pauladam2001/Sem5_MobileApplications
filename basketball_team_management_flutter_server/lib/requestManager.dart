@@ -33,7 +33,7 @@ class RequestManager {
       return employees;
     }
     else {
-      throw Exception("Failed to load Planes");
+      throw Exception("Failed to load Employees");
     }
   }
 
